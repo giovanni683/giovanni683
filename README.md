@@ -1,4 +1,4 @@
-# Olá! 👋 Seja bem-vindo ao meu perfil
+# Hello! 👋 Welcome to My Profile
 
 ---
 
@@ -11,13 +11,13 @@
 
 ---
 
-## 🌟 Sobre Mim
+## 🌟 About Me
 
-Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em **Java**, **JavaScript** e **Python**, e adoro resolver desafios de lógica de programação. Vamos colaborar?
+I am Giovanni Silva, a developer from Osasco, São Paulo, Brazil. Passionate about technology and programming, I have experience in **Java**, **JavaScript**, and **Python**. I enjoy solving logic challenges and continuously seek to expand my knowledge.
 
 ---
 
-## 🚀 Linguagens e Tecnologias que Uso
+## 🚀 Technologies I Work With
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java"/>
@@ -27,24 +27,27 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiênc
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Featured Projects
 
-- [Sistema de Xadrez em Java](https://github.com/giovanni683/chess-system-java) - Um sistema de xadrez de console desenvolvido em Java, com regras de movimentação, xeque e xeque-mate.
-- [Jogo do Número Secreto](https://github.com/giovanni683/numero-secreto) - Um jogo interativo onde o usuário tenta adivinhar o número gerado pelo sistema.
-- [Praticando Lógica de Programação](https://github.com/giovanni683/praticando-logica) - Repositório com exercícios e projetos para reforçar a lógica de programação com HTML, CSS e JavaScript.
+- [chess-system-java](https://github.com/giovanni683/chess-system-java): A console application simulating a chess game, developed in Java.
+- [numero-secreto](https://github.com/giovanni683/numero-secreto): An interactive game where the user tries to guess a randomly generated secret number.
+- [praticando-logica](https://github.com/giovanni683/praticando-logica): Exercises and projects focused on practicing logic programming using HTML, CSS, and JavaScript.
+- [todoapp](https://github.com/giovanni683/todoapp): A task management application to organize daily activities.
+- [allbooks](https://github.com/giovanni683/allbooks): A project for managing and cataloging books.
 
 ---
 
-## 📚 Tecnologias em Aprendizado
+## 📚 Technologies I'm Learning
 
-Estou sempre aprendendo e aprimorando minhas habilidades em novas tecnologias, como:
+I am constantly learning and improving my skills in new technologies, such as:
+
 - **React**
 - **Node.js**
-- **Django**
+- **Spring Boot**
 
 ---
 
-## 📫 Contato
+## 📫 Get in Touch
 
 <div align="center">
   <a href="mailto:giovannipuppets@gmail.com">
